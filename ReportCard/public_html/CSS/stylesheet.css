@@ -1,0 +1,34 @@
+/* 
+    Author     : Abhishek Karan
+*/
+.site_border{    
+    border-style: solid;
+    border-width: 3px;   
+    margin: 15px;
+    padding: 25px;
+    font-family:  "Times New Roman";
+}
+.header_title{    
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center; 
+}
+.personal_details{
+    font-size: 20px;
+    text-align: left; 
+    font-weight: bolder;
+}
+.part_header{
+    font-size: 25px;
+    text-align: center; 
+    font-weight: bolder;
+}
+.sub_part{
+    font-size: 23px;
+    text-align: left; 
+    font-weight: bolder;
+}
+
+
+
+
