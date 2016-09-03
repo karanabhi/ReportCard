@@ -7,6 +7,7 @@
     margin: 15px;
     padding: 25px;
     font-family:  "Times New Roman";
+    height: auto;
 }
 .header_title{    
     font-size: 30px;
@@ -26,6 +27,14 @@
 .sub_part{
     font-size: 23px;
     text-align: left; 
+    font-weight: bolder;
+}
+.grade_table{        
+    font-size: 20px;
+    text-align: left; 
+    font-weight: 500;
+}
+.cgpa{
     font-weight: bolder;
 }
 
